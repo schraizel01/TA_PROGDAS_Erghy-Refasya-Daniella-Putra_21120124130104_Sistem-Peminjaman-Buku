@@ -1,0 +1,6 @@
+﻿  LoginForm.cpp
+  Meminjamh.cpp
+  Generating Code...
+C:\Users\HP\source\repos\Meminjam2\Meminjam2\LoginForm.cpp(7,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Meminjam2.vcxproj -> C:\Users\HP\source\repos\Meminjam2\x64\Debug\Meminjam2.exe

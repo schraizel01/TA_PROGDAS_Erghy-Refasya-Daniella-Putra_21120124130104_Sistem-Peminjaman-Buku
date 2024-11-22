@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\Meminjam2\Meminjam2\x64\Debug\Meminjam2.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Meminjam2\Meminjam2\x64\Debug\Meminjam2.LoginForm.resources
+C:\Users\HP\source\repos\Meminjam2\Meminjam2\x64\Debug\Meminjam2.vcxproj.GenerateResource.cache
+C:\Users\HP\source\repos\Meminjam2\Meminjam2\x64\Debug\Meminjam2.Meminjamh.resources
